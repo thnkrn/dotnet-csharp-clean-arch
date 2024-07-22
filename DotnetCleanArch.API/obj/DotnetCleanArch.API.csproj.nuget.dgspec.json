@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.API/DotnetCleanArch.API.csproj": {}
+  },
+  "projects": {
+    "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.API/DotnetCleanArch.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.API/DotnetCleanArch.API.csproj",
+        "projectName": "DotnetCleanArch.API",
+        "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.API/DotnetCleanArch.API.csproj",
+        "packagesPath": "/Users/thanakornariyagusolsuthoi/.nuget/packages/",
+        "outputPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thanakornariyagusolsuthoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj"
+              },
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj"
+              },
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/DotnetCleanArch.Infrastructure.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/DotnetCleanArch.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj",
+        "projectName": "DotnetCleanArch.Application",
+        "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj",
+        "packagesPath": "/Users/thanakornariyagusolsuthoi/.nuget/packages/",
+        "outputPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thanakornariyagusolsuthoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj",
+        "projectName": "DotnetCleanArch.Domain",
+        "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj",
+        "packagesPath": "/Users/thanakornariyagusolsuthoi/.nuget/packages/",
+        "outputPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thanakornariyagusolsuthoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/DotnetCleanArch.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/DotnetCleanArch.Infrastructure.csproj",
+        "projectName": "DotnetCleanArch.Infrastructure",
+        "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/DotnetCleanArch.Infrastructure.csproj",
+        "packagesPath": "/Users/thanakornariyagusolsuthoi/.nuget/packages/",
+        "outputPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thanakornariyagusolsuthoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/DotnetCleanArch.Application.csproj"
+              },
+              "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj": {
+                "projectPath": "/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/DotnetCleanArch.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

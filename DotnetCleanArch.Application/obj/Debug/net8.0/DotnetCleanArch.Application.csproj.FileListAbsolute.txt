@@ -1,0 +1,16 @@
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/bin/Debug/net8.0/DotnetCleanArch.Application.deps.json
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/bin/Debug/net8.0/DotnetCleanArch.Application.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/bin/Debug/net8.0/DotnetCleanArch.Application.pdb
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/bin/Debug/net8.0/DotnetCleanArch.Domain.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/bin/Debug/net8.0/DotnetCleanArch.Domain.pdb
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.csproj.AssemblyReference.cache
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.AssemblyInfoInputs.cache
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.AssemblyInfo.cs
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.csproj.CoreCompileInputs.cache
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.sourcelink.json
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCl.E9548151.Up2Date
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/refint/DotnetCleanArch.Application.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/DotnetCleanArch.Application.pdb
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Application/obj/Debug/net8.0/ref/DotnetCleanArch.Application.dll

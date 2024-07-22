@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7AOkMk4NzFM6AF8rqmZGnEsCQ8pDBVmGF1++s3L0+Xs=",
+  "Source": "DotnetCleanArch.API",
+  "BasePath": "_content/DotnetCleanArch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

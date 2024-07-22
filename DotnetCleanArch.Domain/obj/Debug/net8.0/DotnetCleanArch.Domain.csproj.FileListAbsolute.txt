@@ -1,0 +1,12 @@
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/bin/Debug/net8.0/DotnetCleanArch.Domain.deps.json
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/bin/Debug/net8.0/DotnetCleanArch.Domain.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/bin/Debug/net8.0/DotnetCleanArch.Domain.pdb
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.AssemblyInfoInputs.cache
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.AssemblyInfo.cs
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.sourcelink.json
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/refint/DotnetCleanArch.Domain.dll
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/DotnetCleanArch.Domain.pdb
+/Users/thanakornariyagusolsuthoi/Desktop/code/dotnet-csharp-clean-arch/DotnetCleanArch.Domain/obj/Debug/net8.0/ref/DotnetCleanArch.Domain.dll
